@@ -8,4 +8,7 @@ echo $x;
 echo "<br>"; 
 $x = 'Hello world!';
 echo $x;
+
+$s = 'John Carter';
+echo $s;
 ?>
